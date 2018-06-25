@@ -9,3 +9,11 @@ The user should be able to search by number of seats required, returning a list 
 When a vehicle is rented, its availability changes to False.
 
 Vehicles can be returned, which changes availability to True.
+
+Sample vehicles:
+Suzuki Van - 2 seats
+Toyota Corolla - 4 seats
+Honda CRV - 4 seats
+Subaru Outback - 5 seats
+Toyota Previa - 7 seats
+Toyota Hiace - 12 seats
